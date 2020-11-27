@@ -6,4 +6,4 @@ You can open the `rose-coaster.stl` right here on github and it should render it
 
 I've also included the GRBL code that can be used on a GRBL CNC device to actually machine this design.
 
-
+![rose-coaster](rose-coaster.png)
